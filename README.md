@@ -7,7 +7,6 @@
 - Spring Boot
 - Spring JPA
 - Biblioteca Jackson
-- Lombok
 - PostgreSQL
 
 ***Em construção***
