@@ -16,23 +16,28 @@
 
 1.  Buscar livro por título
 
-    ![Captura de tela 2024-06-07 201352.png](..%2F..%2F..%2F..%2FVideos%2FOneDrive%2FImagens%2FCapturas%20de%20tela%2FCaptura%20de%20tela%202024-06-07%20201352.png)
+    ![Captura de tela 2024-06-07 201352](https://github.com/KayllaneGPina/literalura-challenge/assets/124215230/c6232696-9380-4266-b073-5126cf45fcd2)
+
 
 2. Listar livros registrados
 
-   ![Captura de tela 2024-06-07 201558](C:\Users\55639\Videos\OneDrive\Imagens\Capturas de tela\Captura de tela 2024-06-07 201558.png)
+   ![Captura de tela 2024-06-07 201558](https://github.com/KayllaneGPina/literalura-challenge/assets/124215230/f1979cbd-5ecd-4c9c-8ce0-4c00665dd1f5)
+
 
 3. Listar autores registrados
 
-   ![Captura de tela 2024-06-07 201615](C:\Users\55639\Videos\OneDrive\Imagens\Capturas de tela\Captura de tela 2024-06-07 201615.png)
+   ![Captura de tela 2024-06-07 201615](https://github.com/KayllaneGPina/literalura-challenge/assets/124215230/e9e5fbb8-be31-42c1-99b9-631bfa3738eb)
+
 
 4. Listar autores vivos em um determinado ano
 
-   ![Captura de tela 2024-06-07 201754](C:\Users\55639\Videos\OneDrive\Imagens\Capturas de tela\Captura de tela 2024-06-07 201754.png)
+   ![Captura de tela 2024-06-07 201754](https://github.com/KayllaneGPina/literalura-challenge/assets/124215230/7e177736-c377-4ce9-bb2d-a3e8c412a37e)
+
 
 5. Listar livros em um determinado idioma
 
-   ![Captura de tela 2024-06-07 201825](C:\Users\55639\Videos\OneDrive\Imagens\Capturas de tela\Captura de tela 2024-06-07 201825.png)
+   ![Captura de tela 2024-06-07 201825](https://github.com/KayllaneGPina/literalura-challenge/assets/124215230/b57d2201-524c-49ba-a428-83a9a4622631)
+
 
 
 
