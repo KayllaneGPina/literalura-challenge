@@ -10,7 +10,7 @@ public class Livro {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String titulo;
-    @ManyToOne
+    @ManyToOne(cascade=CascadeType.PERSIST)
     private Autor autor;
     private String idioma;
     private Integer numeroDownloads;
@@ -60,6 +60,6 @@ public class Livro {
                 "\nAutor: " + autor.getNome() +
                 "\nIdioma: " + idioma +
                 "\nNumero de Downloads: " + numeroDownloads +
-                "\n------------------------------------";
+                "\n-----------------------------------";
     }
 }

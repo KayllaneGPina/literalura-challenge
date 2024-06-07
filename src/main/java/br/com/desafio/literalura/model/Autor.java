@@ -15,10 +15,10 @@ public class Autor {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String nome;
-    private String dataNascimento;
-    private String dataFalecimento;
+    private Integer dataNascimento;
+    private Integer dataFalecimento;
 
-    @OneToMany
+    @OneToMany(fetch = FetchType.EAGER, mappedBy = "autor")
     private List<Livro> livros = new ArrayList<>();
 
     public Autor() {}
@@ -45,19 +45,19 @@ public class Autor {
         this.nome = nome;
     }
 
-    public String getDataNascimento() {
+    public Integer getDataNascimento() {
         return dataNascimento;
     }
 
-    public void setDataNascimento(String dataNascimento) {
+    public void setDataNascimento(Integer dataNascimento) {
         this.dataNascimento = dataNascimento;
     }
 
-    public String getDataFalecimento() {
+    public Integer getDataFalecimento() {
         return dataFalecimento;
     }
 
-    public void setDataFalecimento(String dataFalecimento) {
+    public void setDataFalecimento(Integer dataFalecimento) {
         this.dataFalecimento = dataFalecimento;
     }
 
